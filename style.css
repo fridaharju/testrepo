@@ -1,0 +1,16 @@
+body {
+background: #EEEEEE;
+font: 12 pt/1.4 "Metric Regular", "Metric"
+, serif;
+max-width: 600px;
+margin: 0 auto;
+
+}
+h1 {
+	color: FF9999;
+}
+a {color: #FF3333;
+}
+P {border-bottom: 1px solid #FF9999;
+padding-bottom: 5px;
+}
